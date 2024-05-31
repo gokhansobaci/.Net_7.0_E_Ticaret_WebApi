@@ -5,12 +5,19 @@
 ### Kullanılan Teknolojiler
 
   *.Net 7.0*
+  
   *Entity Framework* 
+  
   *Generic Repository* 
+  
   *Auto Mapper*
+  
   *CQRS*
+  
   *MediatR*
+  
   *Microsoft Identity* 
+  
   *Onion Architecture Folder System*
 
     
