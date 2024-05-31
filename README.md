@@ -1,4 +1,4 @@
-# .NET 7.0 WEB API E-TİCARET UYGULAMASI
+# .NET 7.0 E-TİCARET REST WEB APİ UYGULAMASI
 
 
 ###  Bu proje, E-Ticaret Projelerinde kullanılabilecek Jwt ve Microsoft Identity ile inşa edilmiş bir Web API uygulamasıdır. Çeşitli operasyonlar içeren servis yapısı ve rol bazlı üyelik yönetimi ile projelerinizde dilediğiniz gibi kullanabilirsiniz.
@@ -7,7 +7,7 @@
 ### Kullanılan Teknolojiler
 
 
-  *.Net 7.0*
+  *.Net 7.0 WEB API REST*
   
   *Entity Framework* 
   
